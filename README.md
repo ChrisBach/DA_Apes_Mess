@@ -29,5 +29,25 @@ The heart of this project lies in its data analytics component. Various analytic
 
 The findings and insights derived from the data analytics are presented in a clear and comprehensible manner. Charts, graphs, and textual summaries help illustrate key observations, providing a valuable retrospective on our group chat activities.
 
+[🍌] 7000 messages in a year – Ly Do and Mimi leading the charge, with Yen Nhi and Le Quang Sinh on the come-up (hope so)!
+![Mssg Count by Ape](https://github.com/ChrisBach/DA_Apes_Mess/assets/72986463/c6200e0f-64d0-4935-813e-97d8ae1afb49)
+
+
+
+[🍌] First half of 2023 was message mayhem; second half chilled, and our peaks? Just pre-birthday vibes!
+![FrequencyOverYear](https://github.com/ChrisBach/DA_Apes_Mess/assets/72986463/cf3d025f-8863-484e-acf7-da5956e8949d)
+
+
+
+[🍌] Ape activity graph: not a heartbeat, just our daily message hustle!
+![FrequencyOverDay](https://github.com/ChrisBach/DA_Apes_Mess/assets/72986463/fc24f0d3-b746-4aa6-8688-6f68c449568b)
+
+
+
+[🍌] Apes' emoji game strong: laughs and loves only, no beef allowed!
+![top20emojisused](https://github.com/ChrisBach/DA_Apes_Mess/assets/72986463/2b1a5f89-4f56-4fd5-bcd5-79a80c226bb3)
+
+
+
 Thank you for exploring the Apes GroupChat Analytics Project! If you have any questions, feedback, or suggestions, feel free to reach out. Happy analyzing!
 # DA_Apes_Mess
